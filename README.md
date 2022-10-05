@@ -1,6 +1,3 @@
-# Tushar_Patil
-Introduction to my work
-
 <h3 align="center">
    नमस्ते (Namaste), I am Tushar Patil!!!
   <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="30">
@@ -60,15 +57,15 @@ Introduction to my work
 <br>
 
 <h2 align="center"> :dart: Stats :dart:</h2>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+   
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshr-d-dragon&show_icons=true&theme=highcontrast)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tshr-d-dragon&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tshr-d-dragon&theme=high-contrast)](https://github.com/tshr-d-dragon/github-readme-activity-graph)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshr-d-dragon&layout=compact)](https://github.com/tshr-d-dragon/github-readme-stats)
-
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshr-d-dragon&show_icons=true&theme=radical )
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tshr-d-dragon&theme=radical )](https://git.io/streak-stats)
+[![Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=tshr-d-dragon&theme=radical )](https://github.com/tshr-d-dragon/github-readme-activity-graph)
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img alt="tshr-d-dragon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshr-d-dragon&langs_count=5&layout=default&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="320px"/>
 
 <h2 align="center"> 🛠️ My favorite tools 🛠️</h2>
 
