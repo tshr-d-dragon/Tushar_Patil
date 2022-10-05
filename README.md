@@ -78,7 +78,7 @@ Introduction to my work
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="25"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" height="25"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="25"></a>
-    <a href="#"><img alt="GitHub" src="https://www.svgrepo.com/show/332084/github.svg?logo=github&logoColor=black" height="25"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="25"></a>
     <a href="#"><img alt="TensorlFlow" src="https://img.shields.io/badge/TensorlFlow-F37626.svg?logo=tensorlflow&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-F37626.svg?logo=keras&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-F37626.svg?logo=pytorch&logoColor=white" height="25" ></a>
@@ -86,7 +86,9 @@ Introduction to my work
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626.svg?logo=matplotlib&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-F37626.svg?logo=seaborn&logoColor=white" height="25" ></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-F37626.svg?logo=opencv&logoColor=white" height="25" ></a>
-    </a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="25"></a>
+    
 </p>
 
 ### 📖  What I am currently learning / improving on
