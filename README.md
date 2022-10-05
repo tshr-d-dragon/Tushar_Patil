@@ -54,12 +54,10 @@ Introduction to my work
    <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Tomato_Leaf_Disease_Prediction&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Tomato_Leaf_Disease_Prediction"></a>
 
 <br>
-   <br>
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/tshr-d-dragon?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
+<br>
 
 <h2 align="center"> :dart: Stats :dart:</h2>
 
@@ -75,42 +73,28 @@ Introduction to my work
 <h2 align="center"> 🛠️ My favorite tools 🛠️</h2>
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="25"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="25"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="25"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="25"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="25"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="25"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" height="25"></a>
-   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="25"></a>
-  <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" height="25"></a>
-   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="25"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="25"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="25"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" height="25"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="25" ></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="25"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" height="25"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="25"></a>
+    <a href="#"><img alt="GitHub" src="https://www.svgrepo.com/show/332084/github.svg?logo=github&logoColor=black" height="25"></a>
+    <a href="#"><img alt="TensorlFlow" src="https://img.shields.io/badge/TensorlFlow-F37626.svg?logo=tensorlflow&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-F37626.svg?logo=keras&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-F37626.svg?logo=pytorch&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Sklearn-F37626.svg?logo=scikit-learn&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626.svg?logo=matplotlib&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-F37626.svg?logo=seaborn&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-F37626.svg?logo=opencv&logoColor=white" height="25" ></a>
+    </a>
 </p>
 
 ### 📖  What I am currently learning / improving on
 
 <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="25"></a>
-   <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="MLOps" src="https://img.shields.io/badge/MLOps-00f.svg?logo=mlops&logoColor=white" height="25"></a>
+    <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-%23276DC3.svg?logo=nlp&logoColor=white" height="25" ></a>
 </p> 
-
-
-## 💻 GitHub Recent activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
-2. 💪 Opened PR [#4784](https://github.com/mlflow/mlflow/pull/4784) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
-3. 💪 Opened PR [#4783](https://github.com/mlflow/mlflow/pull/4783) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
-4. ❗️ Opened issue [#4689](https://github.com/mlflow/mlflow/issues/4689) in [mlflow/mlflow](https://github.com/mlflow/mlflow)
-<!--END_SECTION:activity-->
 
 <br>
 
