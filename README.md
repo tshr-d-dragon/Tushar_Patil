@@ -41,17 +41,17 @@ Introduction to my work
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/tshr-d-dragon/Human_Body_Segmentation">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Human_Body_Segmentation&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" /></a>
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Human_Body_Segmentation&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" /></a>
 <a href="https://github.com/tshr-d-dragon/Semantic_Segmentation_Models" >
-   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Semantic_Segmentation_Models&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Semantic_Segmentation_Models" ></a>
+   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Semantic_Segmentation_Models&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Semantic_Segmentation_Models" ></a>
 <a href="https://github.com/tshr-d-dragon/Object_Detection">
- <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Object_Detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Object_Detection"></a>
+ <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Object_Detection&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Object_Detection"></a>
 <a href="https://github.com/tshr-d-dragon/Face_Segmentation">
-   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Face_Segmentation&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Face_Segmentation"></a>
+   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Face_Segmentation&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Face_Segmentation"></a>
 <a href="https://github.com/tshr-d-dragon/Virtual_Paint">
-   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Virtual_Paint&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Virtual_Paint"></a>
+   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Virtual_Paint&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Virtual_Paint"></a>
 <a href="https://github.com/tshr-d-dragon/Tomato_Leaf_Disease_Prediction">
-   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Tomato_Leaf_Disease_Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Tomato_Leaf_Disease_Prediction"></a>
+   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Tomato_Leaf_Disease_Prediction&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Tomato_Leaf_Disease_Prediction"></a>
 
 <br>
    <br>
@@ -62,6 +62,14 @@ Introduction to my work
 
 
 <h2 align="center"> :dart: Stats :dart:</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshr-d-dragon&show_icons=true&theme=highcontrast)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tshr-d-dragon&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tshr-d-dragon&theme=high-contrast)](https://github.com/tshr-d-dragon/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tshr-d-dragon&layout=compact)](https://github.com/tshr-d-dragon/github-readme-stats)
 
 
 <h2 align="center"> 🛠️ My favorite tools 🛠️</h2>
