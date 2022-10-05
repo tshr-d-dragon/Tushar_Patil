@@ -58,14 +58,15 @@
 
 <h2 align="center"> :dart: Stats :dart:</h2>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-   
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshr-d-dragon&show_icons=true&theme=radical )
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tshr-d-dragon&theme=radical )](https://git.io/streak-stats)
-[![Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=tshr-d-dragon&theme=radical )](https://github.com/tshr-d-dragon/github-readme-activity-graph)
- <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="tshr-d-dragon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshr-d-dragon&langs_count=5&layout=default&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="320px"/>
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshr-d-dragon&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tshr-d-dragon&theme=radical)](https://git.io/streak-stats)
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tshr-d-dragon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tshr-d-dragon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+     <img alt="tshr-d-dragon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshr-d-dragon&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="196px"/>
 
 <h2 align="center"> 🛠️ My favorite tools 🛠️</h2>
 
