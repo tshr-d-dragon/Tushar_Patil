@@ -77,10 +77,10 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" height="25"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="25"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="25"></a>
-    <a href="#"><img alt="TensorlFlow" src="https://img.shields.io/badge/TensorlFlow-F37626.svg?logo=tensorlflow&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-F37626.svg?logo=keras&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="TensorlFlow" src="https://img.shields.io/badge/-TensorFlow-red?logo=tensorflow&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-critical.svg?logo=keras&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-F37626.svg?logo=pytorch&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Sklearn-F37626.svg?logo=scikit-learn&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Sklearn-blue.svg?logo=scikit-learn&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626.svg?logo=matplotlib&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-F37626.svg?logo=seaborn&logoColor=white" height="25" ></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-F37626.svg?logo=opencv&logoColor=white" height="25" ></a>
