@@ -79,6 +79,7 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="25"></a>
     <a href="#"><img alt="TensorlFlow" src="https://img.shields.io/badge/-TensorFlow-red?logo=tensorflow&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-critical.svg?logo=keras&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue.svg?logo=Docker&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-F37626.svg?logo=pytorch&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Sklearn-blue.svg?logo=scikit-learn&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-yellowgreen.svg?logo=matplotlib&logoColor=white" height="25" ></a>
