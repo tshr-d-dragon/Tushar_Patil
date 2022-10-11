@@ -83,7 +83,7 @@
     <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Sklearn-blue.svg?logo=scikit-learn&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-yellowgreen.svg?logo=matplotlib&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9cf.svg?logo=seaborn&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-informational.svg?logo=opencv&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-brightgreen.svg?logo=opencv&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" height="25" ></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="25"></a>
     
