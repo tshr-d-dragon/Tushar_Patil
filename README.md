@@ -41,15 +41,14 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Human_Body_Segmentation&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" /></a>
 <a href="https://github.com/tshr-d-dragon/Semantic_Segmentation_Models" >
    <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Semantic_Segmentation_Models&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Semantic_Segmentation_Models" ></a>
-<a href="https://github.com/tshr-d-dragon/Object_Detection">
- <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Object_Detection&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Object_Detection"></a>
 <a href="https://github.com/tshr-d-dragon/Face_Segmentation">
    <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Face_Segmentation&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Face_Segmentation"></a>
-<a href="https://github.com/tshr-d-dragon/Virtual_Paint">
-   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Virtual_Paint&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Virtual_Paint"></a>
 <a href="https://github.com/tshr-d-dragon/Tomato_Leaf_Disease_Prediction">
    <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Tomato_Leaf_Disease_Prediction&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Tomato_Leaf_Disease_Prediction"></a>
-
+<a href="https://github.com/tshr-d-dragon/Object_Detection">
+ <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Object_Detection&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Object_Detection"></a>
+<a href="https://github.com/tshr-d-dragon/Virtual_Paint">
+   <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=tshr-d-dragon&repo=Virtual_Paint&theme=highcontrast&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=True&border_radius=10&border_color=F85D7F" alt="Virtual_Paint"></a>
 <br>
 <p align="center">
   <a href="https://github.com/tshr-d-dragon?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
