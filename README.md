@@ -69,8 +69,9 @@
 ### 📖  What I am currently learning / improving on
 
 <p>
-    <a href="#"><img alt="MLOps" src="https://img.shields.io/badge/MLOps-00f.svg?logo=mlops&logoColor=white" height="25"></a>
+    <a href="#"><img alt="CV" src="https://img.shields.io/badge/CV-red.svg?logo=cv&logoColor=white" height="25"></a>
     <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-%23276DC3.svg?logo=nlp&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="MLOps" src="https://img.shields.io/badge/MLOps-00f.svg?logo=mlops&logoColor=white" height="25"></a>
     <a href="#"><img alt="DSA" src="https://img.shields.io/badge/DSA-013243.svg?logo=DSA&logoColor=white" height="25" ></a>
 
 </p> 
