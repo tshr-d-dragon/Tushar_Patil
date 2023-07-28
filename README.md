@@ -10,11 +10,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar-patil-7a6008a4/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+  <a href="https://www.linkedin.com/in/tushar-patil-7a6008a4/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="mailto:tusharpatil487@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UC98XtEaTDg-PBRb8j1eCukw"><img width="32px" alt="YouTube" title="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" /></a>
+  <a href="https://www.youtube.com/channel/UC98XtEaTDg-PBRb8j1eCukw"><img width="33px" height="27px" alt="YouTube" title="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -39,7 +39,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tshr-d-dragon&theme=radical)](https://git.io/streak-stats)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tshr-d-dragon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tshr-d-dragon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tshr-d-dragon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tshr-d-dragon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="tshr-d-dragon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshr-d-dragon&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="196px"/>
