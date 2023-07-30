@@ -8,6 +8,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+up+for+new+challenges;Self+taught+Data+Scientist;4+%2B%20years+of+work+experience&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"></a>
 </p>
 
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tushar-patil-7a6008a4/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/></a>
@@ -29,7 +30,7 @@
   <a href="https://github.com/tshr-d-dragon?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tshr-d-dragon"/></a>
   <a href="https://github.com/tshr-d-dragon?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tshr-d-dragon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tshr-d-dragon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
 <h2 align="center"> :dart: Stats :dart:</h2>
