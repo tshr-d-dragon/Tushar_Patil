@@ -19,7 +19,8 @@
 
 </p>
 
-## ABOUT ME!
+<h2 align="center"> About Me! </h2>
+
 - 🔭 Data Science practitioner with 4+ years of experience in Machine Learning and Deep Learning, currently working with StatusNeo as a Senior Consultant
 - 💬 You can reach out to me on Linkedin!!!:)
 - Proficient in Python, Matlab (Simulink), and various DL models such as **ANN, CNN, RNN, LSTM, Semantic Segmentation, and Object Detection using TensorFlow, Keras, and Pytorch**
