@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="mailto:tusharpatil487@gmail.com"><img width="80px" alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UC98XtEaTDg-PBRb8j1eCukw"><img width="90px" height=25.5 alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UC98XtEaTDg-PBRb8j1eCukw"><img width="90px" height=25.15 alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
