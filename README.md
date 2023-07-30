@@ -10,11 +10,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar-patil-7a6008a4/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/></a>
+  <a href="https://www.linkedin.com/in/tushar-patil-7a6008a4/"><img width="100px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="mailto:tusharpatil487@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/></a>
+   <a href="mailto:tusharpatil487@gmail.com"><img width="80px" alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UC98XtEaTDg-PBRb8j1eCukw"><img width="33px" height="27px" alt="YouTube" title="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" /></a>
+  <a href="https://www.youtube.com/channel/UC98XtEaTDg-PBRb8j1eCukw"><img width="90px" height=25.5 alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
