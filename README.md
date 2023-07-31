@@ -23,8 +23,8 @@
 
 - 🔭 Data Science practitioner with 4+ years of experience in Machine Learning and Deep Learning, currently working with StatusNeo as a Senior Consultant
 - 💬 You can reach out to me on Linkedin!!!:)
-- Proficient in Python, Matlab (Simulink), and various DL models such as **ANN, CNN, RNN, LSTM, Semantic Segmentation, and Object Detection using TensorFlow, Keras, and Pytorch**
-- Experience in Robotics at **IIT Mandi CAIR (Centre for AI and Robotics)**
+-  🚀 Proficient in Python, Matlab (Simulink), and various DL models such as **ANN, CNN, RNN, LSTM, Semantic Segmentation, and Object Detection using TensorFlow, Keras, and Pytorch**
+-  🚀 Experience in Robotics at **IIT Mandi CAIR (Centre for AI and Robotics)**
 - Have exposure to working with **Husky A200 AGV, and Kinova Gen3 Manipulator Arm** using **ROS1, Gazebo, python3,** and applying various Deep Learning techniques (mainly Computer Vision and NLP) for different tasks like pick and place, pick and pour, table mopping, video captioning, etc.
 - Helped my colleagues at IIT Mandi CAIR to solve different deep learning problems such as **object detection (yolov7, yolov8) and semantic segmentation (Deeplabv3p)** for their research tasks like **ground vehicle and fire detection** using gimbal camera (camera mounted on drone), **pipe segmentation** using gimbal camera, etc.
 - All these models have **sizes less than 1.5MB** which helped us to get faster predictions with mobile infrastructure (nvidia jetson nano)
