@@ -51,24 +51,24 @@
 <h2 align="center"> 🛠️ My favorite tools 🛠️</h2>
 
 <p align="center">
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="25"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25" ></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="25"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" height="25"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>
-    <a href="#"><img alt="TensorlFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-yellowgreen.svg?logo=matplotlib&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9cf.svg?logo=seaborn&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" height="25"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" height="25" ></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="25"></a>&#8287;&#8287;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="25"></a>&#8287;&#8287;
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" height="25"></a>&#8287;&#8287;
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25"></a>&#8287;&#8287;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25"></a>&#8287;&#8287;
+    <a href="#"><img alt="TensorlFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-yellowgreen.svg?logo=matplotlib&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9cf.svg?logo=seaborn&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" height="25"></a>&#8287;&#8287;
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" height="25" ></a>&#8287;&#8287;
  
 </p>
 
