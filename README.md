@@ -62,8 +62,8 @@
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED.svg?style=for-the-badge&logo=ONNX&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" ></a>&#8287;&#8287;
-    <a href="#"><img alt="MATPLOTLIB" src="https://img.shields.io/badge/Matplotlib-yellowgreen.svg?logo=matplotlib&logoColor=white" height="25" ></a>&#8287;&#8287;
-    <a href="#"><img alt="SEABORN" src="https://img.shields.io/badge/Seaborn-9cf.svg?logo=seaborn&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="MATPLOTLIB" src="https://img.shields.io/badge/MATPLOTLIB-yellowgreen.svg?logo=matplotlib&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="SEABORN" src="https://img.shields.io/badge/SEABORN-9cf.svg?logo=seaborn&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logo=YOLO&logoColor=black" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" height="25" ></a>&#8287;&#8287;
