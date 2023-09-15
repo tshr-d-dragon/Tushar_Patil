@@ -1,11 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
+
+
 <h1 align="center">
-   नमस्ते (Namaste), I am Tushar Patil!!!
-  <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="35">
+     <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="35">
+     नमस्ते (Namaste), I am Tushar Patil !!!
+<!--      <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="35"> -->
+     
 </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+up+for+new+challenges;Self+taught+Data+Scientist;4.5%2B+years+of+work+experience&font=robot+slab%25&center=true&vCenter=true&width=500&height=40&size=25&pause=250&color=f75c7e"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+ML%2FDL+Developer;Always+up+for+new+challenges;Self+taught+Data+Scientist;4.5%2B+years+of+work+experience&font=robot+slab%25&center=true&vCenter=true&width=500&height=40&size=25&pause=250&color=f75c7e"></a>
 </p>
 
 <!-- Social icons section -->
@@ -88,3 +93,5 @@
 
 </p> 
  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=footer"/>
