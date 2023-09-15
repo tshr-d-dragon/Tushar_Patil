@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+up+for+new+challenges;Self+taught+Data+Scientist;4+%2B%20years+of+work+experience&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+up+for+new+challenges;Self+taught+Data+Scientist;4.5%2B+years+of+work+experience&font=robot+slab%25&center=true&vCenter=true&width=500&height=40&size=25&pause=250&color=f75c7e"></a>
 </p>
 
 <!-- Social icons section -->
@@ -62,7 +62,7 @@
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED.svg?style=for-the-badge&logo=ONNX&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikitlearn-brown.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" ></a>&#8287;&#8287;
-    <a href="#"><img alt="MATPLOTLIB" src="https://img.shields.io/badge/MATPLOTLIB-yellowgreen.svg?style=for-the-badge&logo=MATPLOTLIB&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="MATPLOTLIB" src="https://img.shields.io/badge/MATPLOTLIB-purple.svg?style=for-the-badge&logo=MATPLOTLIB&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="SEABORN" src="https://img.shields.io/badge/Seaborn-9cf.svg?style=for-the-badge&logo=Seaborn&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" height="25" ></a>&#8287;&#8287;
     <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logo=YOLO&logoColor=black" height="25" ></a>&#8287;&#8287;
@@ -80,11 +80,11 @@
 <h2 align="center"> 📖 What I am currently learning / improving on 📖 </h2>
 
 <p align="center">
-    <a href="#"><img alt="Computer_Vision" src="https://img.shields.io/badge/Computer_Vision-red.svg?style=for-the-badge&logo=Computer_Vision&logoColor=white" height="25"></a>
-    <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-blue?style=for-the-badge&logo=NLP&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="MLOps" src="https://img.shields.io/badge/MLOps-yellow?style=for-the-badge&logo=MLOps&logoColor=white" height="25"></a>
-    <a href="#"><img alt="DSA" src="https://img.shields.io/badge/DSA-blueyellow.svg?style=for-the-badge&logo=DSA&logoColor=white" height="25" ></a>
-    <a href="#"><img alt="GenAI" src="https://img.shields.io/badge/GenAI-brown.svg?style=for-the-badge&logo=GenAI&logoColor=white" height="25" ></a>
+    <a href="#"><img alt="Computer_Vision" src="https://img.shields.io/badge/Computer_Vision-red.svg?style=for-the-badge&logo=Computer_Vision&logoColor=white" height="25"></a>&#8287;&#8287;
+    <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-blue?style=for-the-badge&logo=NLP&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="MLOps" src="https://img.shields.io/badge/MLOps-5C3EE8?style=for-the-badge&logo=MLOps&logoColor=white" height="25"></a>&#8287;&#8287;
+    <a href="#"><img alt="DSA" src="https://img.shields.io/badge/DSA-150458.svg?style=for-the-badge&logo=DSA&logoColor=white" height="25" ></a>&#8287;&#8287;
+    <a href="#"><img alt="GenAI" src="https://img.shields.io/badge/GenAI-brown.svg?style=for-the-badge&logo=GenAI&logoColor=white" height="25" ></a>&#8287;&#8287;
 
 </p> 
  
