@@ -25,7 +25,7 @@
 
 <h2 align="center"> About Me!!! </h2>
 
-- 🔭 Data Science practitioner with 4+ years of experience in Machine Learning and Deep Learning, currently working with StatusNeo as a Senior Consultant
+- 🔭 Data Science practitioner with 4.5+ years of experience in Machine Learning and Deep Learning, currently working with StatusNeo as a Senior Consultant
 - 💬 You can reach out to me on Linkedin!!!:)
 - 🚀 Proficient in Python, Matlab (Simulink), and various DL models such as **ANN, CNN, RNN, LSTM, Semantic Segmentation, Object Detection, DCGAN using TensorFlow (Keras) and Pytorch**
 - 📚 Experience in Robotics at **IIT Mandi CAIR (Centre for AI and Robotics)** as a **Research Scholar**
