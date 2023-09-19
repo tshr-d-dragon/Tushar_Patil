@@ -28,7 +28,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tshr-d-dragon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" height=25 /></a>
 </p>
 
-<h2 align="center"> About Me!!! </h2>
+<h2 align="center"> 💫 About Me!!! </h2>
 
 - 🔭 Data Science practitioner with 4.5+ years of experience in Machine Learning and Deep Learning, currently working with StatusNeo as a Senior Consultant
 - 💬 You can reach out to me on Linkedin!!!:)
